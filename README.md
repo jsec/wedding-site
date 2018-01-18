@@ -1,51 +1,18 @@
-# wedding
+## My Wedding Site
+Jen is making me make a thing. So I'm making a thing.
 
-This README outlines the details of collaborating on this Ember application.
-A short introduction of this app could easily go here.
+Guess who hasn't lived in the web development ecosystem in over a year?
 
-## Prerequisites
+#### This guy.
 
-You will need the following things properly installed on your computer.
+Guess who's going back to the toolchain he hopes he still remembers how to use?
 
-* [Git](https://git-scm.com/)
-* [Node.js](https://nodejs.org/) (with npm)
-* [Ember CLI](https://ember-cli.com/)
-* [Google Chrome](https://google.com/chrome/)
+#### This guy.
 
-## Installation
+So here goes nothing.
 
-* `git clone <repository-url>` this repository
-* `cd wedding`
-* `npm install`
+[Here it is!](http://jarrodplusjen.wedding)
 
-## Running / Development
+((Make sure you click it a lot. I stuck a bunch of hidden ad revenue generators to try and pay for my honeymoon)).
 
-* `ember serve`
-* Visit your app at [http://localhost:4200](http://localhost:4200).
-* Visit your tests at [http://localhost:4200/tests](http://localhost:4200/tests).
-
-### Code Generators
-
-Make use of the many generators for code, try `ember help generate` for more details
-
-### Running Tests
-
-* `ember test`
-* `ember test --server`
-
-### Building
-
-* `ember build` (development)
-* `ember build --environment production` (production)
-
-### Deploying
-
-Specify what it takes to deploy your app.
-
-## Further Reading / Useful Links
-
-* [ember.js](https://emberjs.com/)
-* [ember-cli](https://ember-cli.com/)
-* Development Browser Extensions
-  * [ember inspector for chrome](https://chrome.google.com/webstore/detail/ember-inspector/bmdblncegkenkacieihfhpjfppoconhi)
-  * [ember inspector for firefox](https://addons.mozilla.org/en-US/firefox/addon/ember-inspector/)
+Just kidding. Maybe.
