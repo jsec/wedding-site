@@ -1,5 +1,2 @@
-  .container.app-container
-    h3
-      | lol I did a thing
-
-    = outlet
+.container.h-100
+  = outlet

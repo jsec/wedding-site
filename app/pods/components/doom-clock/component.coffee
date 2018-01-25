@@ -6,7 +6,7 @@ DoomClockComponent = Component.extend
     diff     = date.getTime() - new Date().getTime()
     showtime = Math.floor(diff/1000)
 
-    @clock = $('.clock').FlipClock(date, {
+    @clock = $('.doom-clock').FlipClock(date, {
       clockFace: 'DailyCounter'
       autoStart: false
       countdown: true

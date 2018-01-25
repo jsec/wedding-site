@@ -1,1 +1,6 @@
-= doom-clock
+.landing
+  .row.h-100.justify-content-center.align-items-center
+    .col-md-12
+      .landing-header
+        | Countdown to Throwdown
+      = doom-clock
