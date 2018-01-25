@@ -6,5 +6,6 @@ Router = EmberRouter.extend
   rootURL:  config.rootURL
 
 Router.map ->
+  @route 'landing', { path: '/' }
 
 export default Router
