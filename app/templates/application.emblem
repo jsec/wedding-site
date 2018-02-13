@@ -1,17 +1,14 @@
 nav.navbar.navbar-expand-lg.navbar-light.bg-light
   button.navbar-toggler type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation"
     span.navbar-toggler-icon
-  a.navbar-brand href="#"
-    | Navbar
+  a.navbar-brand
+    link-to "landing" | Jen+Jarrod
 
   div.collapse.navbar-collapse id="navbarNav"
     ul.navbar-nav.mr-auto
       li.nav-item
-        a.nav-link href="#"
-          | Home
-      li.nav-item
-        a.nav-link href="#"
-          | Hotels
+        a.nav-link
+          link-to "hotels" | Hotels
 
 .container.h-100
   = outlet

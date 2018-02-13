@@ -1,0 +1,33 @@
+.card.card-pad
+  .card-header.text-center
+    h3
+      | Hotel Information
+  .card-body
+    .row
+      .col-md-4.text-center
+        img src="assets/images/tplogo.png" alt="TownePlace Suites"
+      .col-md-8
+        p
+          | We have a block of studio rooms and 2 bedroom suites at the TownePlace Suites in Novi.
+        p
+          ul
+            li
+              | Studio Rooms: Queen bed + pull out couch, sleeps 4. ($79/night)
+            li
+              | Bedroom Suites: 2 queen beds + pull out couch, sleeps 6, 2 bathroom. ($109/night)
+        p
+          | Both room options have full kitchens and breakfast is included.
+        p
+          | The block of rooms will be held until March 23rd. To book rooms:
+        p
+          ul
+            li
+              | Call
+              a href="tel:8003212211"
+                |  1-800-321-2211
+              |  and reference the Fine/Seccombe Wedding room block at the Novi TownePlace Suites
+            li
+              | Click
+              a href=hotelLink target="new"
+                |  here
+              |  for the direct website link.
