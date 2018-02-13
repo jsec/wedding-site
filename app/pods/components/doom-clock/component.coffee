@@ -2,7 +2,7 @@ import Component from '@ember/component'
 
 DoomClockComponent = Component.extend
   didInsertElement: ->
-    date     = new Date('2018-04-14 13:30:00')
+    date     = new Date(2018, 3, 14, 13, 30, 0)
     diff     = date.getTime() - new Date().getTime()
     showtime = Math.floor(diff/1000)
 
