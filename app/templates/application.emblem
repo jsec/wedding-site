@@ -10,5 +10,9 @@ nav.navbar.navbar-expand-lg.navbar-light.bg-light
         a.nav-link
           link-to "hotels" | Hotels
 
+      li.nav-item
+        a.nav-link
+          link-to "registry" | Registry
+
 .container.h-100
   = outlet

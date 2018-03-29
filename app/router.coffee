@@ -8,5 +8,6 @@ Router = EmberRouter.extend
 Router.map ->
   @route 'landing', { path: '/' }
   @route 'hotels'
+  @route 'registry'
 
 export default Router
